@@ -12,7 +12,7 @@
 <blockquote>
 Aplicação para conectar a API criada anteriormente, permitindo lista o portfolio de repostórios e dar um like nele.
 </blockquote>
-
+<img alt="GoStack" src="/.github/react_app.png" />
 
 
  ## 💻 Tecnologias
